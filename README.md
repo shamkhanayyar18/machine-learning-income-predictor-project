@@ -36,8 +36,8 @@ The solution includes:
 - Collects user input for the same set of features.
 - Sends a POST request to the backend prediction endpoint.
 - Displays the prediction result or error details.
-- Currently configured to send predictions to `https://abdullahkamran426-income-predictor-backend.hf.space/predict`.
-- Live frontend deployed on Streamlit: https://income-predictor-zvrnvoeezsxuj85lfxygjc.streamlit.app/
+- Currently configured to send predictions to `https://shamkha-nayyar.hf.space/predict`.
+- Live frontend deployed on Streamlit: https://machine-learning-income-predictor-project.streamlit.app/
 
 ### How it Works
 1. The user opens the Streamlit interface and fills in the required income features.
