@@ -48,8 +48,8 @@ The solution includes:
 6. The backend returns the prediction as JSON, and the frontend displays the result to the user.
 
 ### Deployment
-- The backend is live on Hugging Face at `https://shamkha-nayyar.hf.space/predicts`.
-- The frontend is live on Streamlit at `https://machine-learning-income-predictor-project.treamlit.app/`.
+- The backend is live on Hugging Face at `https://shamkha-nayyar.hf.space/predict`.
+- The frontend is live on Streamlit at `https://machine-learning-income-predictor-project.streamlit.app/`.
 
 ### Docker support
 - `Dockerfile` installs Python dependencies and runs `main.py`.
