@@ -54,4 +54,4 @@ if st.button("Predict"):
         st.error("Connection Failed! Your backend server is NOT running on port 8000, or it crashed.")
     except Exception as e:
         st.error(f"An unexpected error occurred: {e}")
-
+        

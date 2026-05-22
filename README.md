@@ -29,7 +29,7 @@ The solution includes:
   - `hours_per_week`
   - `native_country`
 - Returns a prediction indicating whether the income is expected to be `>50K` or `<=50K`.
-- Live backend hosted on Hugging Face at `https://abdullahkamran426-income-predictor-backend.hf.space/predict`.
+- Live backend hosted on Hugging Face at `https://shamkha-nayyar.hf.space/predict`.
 
 ### Frontend (`frontend.py`)
 - Uses Streamlit for a quick user interface.
@@ -48,8 +48,8 @@ The solution includes:
 6. The backend returns the prediction as JSON, and the frontend displays the result to the user.
 
 ### Deployment
-- The backend is live on Hugging Face at `https://abdullahkamran426-income-predictor-backend.hf.space/predict`.
-- The frontend is live on Streamlit at `https://income-predictor-zvrnvoeezsxuj85lfxygjc.streamlit.app/`.
+- The backend is live on Hugging Face at `https://shamkha-nayyar.hf.space/predicts`.
+- The frontend is live on Streamlit at `https://machine-learning-income-predictor-project.treamlit.app/`.
 
 ### Docker support
 - `Dockerfile` installs Python dependencies and runs `main.py`.
